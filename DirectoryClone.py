@@ -1,7 +1,7 @@
 import os
 
-target = "/Users/rush/Desktop/tv"
-clone = "/Users/rush/Desktop/tv-new"
+target = ""
+clone = ""
 
 print("Cloning \"" + target + "\" to \"" + clone + "\"")
 
