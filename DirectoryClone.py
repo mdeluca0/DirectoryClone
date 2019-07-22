@@ -1,6 +1,9 @@
 import os
 
+#Path to directory to be cloned
 target = ""
+
+#Path to directory to be created
 clone = ""
 
 print("Cloning \"" + target + "\" to \"" + clone + "\"")
